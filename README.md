@@ -1,6 +1,8 @@
 # SyntaxedCore Installer
-## Script installation instructions:
+*Script installation instructions:*
+
 ### Make sure you have the following installed...
+
 - PHP7.x
 - WGET
 
