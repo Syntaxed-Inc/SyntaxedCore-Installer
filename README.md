@@ -6,13 +6,17 @@
 
 To install PHP7.x:
 `sudo apt-get install python-software-properties`
+
 `sudo add-apt-repository ppa:ondrej/php-7.0`
+
 `sudo apt-get update`
 **If you have PHP5 installed (check with `php -v`)**: `sudo apt-get purge php5-fpm`
+
 `sudo apt-get install php7.0-cli php7.0 php7.0-common`
 
 To install WGET:
 `sudo apt-get install wget`
+
 `sudo apt-get update`
 
 ### Now, to install and run the script...
