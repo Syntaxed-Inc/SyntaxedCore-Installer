@@ -127,7 +127,7 @@ if [[ "$BUILD_URL" != "" && "$CHANNEL" == "custom" ]]; then
 	VERSION_DOWNLOAD="$BUILD_URL"
 else
 
-	VERSION_DATA=$(download_file "https://syntaxed.gq/cdn/core/PocketMine-MP.phar")
+	VERSION_DATA=$(download_file "https://syntaxed.gq/cdn/core/PocketMine.phar")
 
 	if [ "$VERSION_DATA" != "" ]; then
 		FILENAME=$(echo "$VERSION_DATA" | grep '"fileName"' | cut -d ':' -f2- | tr -d ' ",')
