@@ -1,4 +1,5 @@
 # SyntaxedCore Installer
+NOT STABLE - IN DEVELOPMENT - PLANNED RELEASE: 4/10/2017
 Hi there, thank you for choosing SyntaxedCore as your server-software provider. We appreciate it greatly. The instructions on running our script (on Linux) are provided below.
 ### Make sure you have the following installed...
 
